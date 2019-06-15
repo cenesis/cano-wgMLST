@@ -1,1 +1,1 @@
-# cano-wgMLST_BacCompare
+# cano-wgMLST
