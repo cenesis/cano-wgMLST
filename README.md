@@ -165,6 +165,6 @@ $ 5.Loci-Extractor.pl
 ```
 Date: 2019/06/17
 Author:	Yen-Yi Liu (current788@gmail.com),
-		Ji-Wei Lin (jwlin@imst.nsysu.edu.tw),
-		Chih-Chieh Chen (chieh@imst.nsysu.edu.tw)
+	Ji-Wei Lin (jwlin@imst.nsysu.edu.tw),
+	Chih-Chieh Chen (chieh@imst.nsysu.edu.tw)
 ```
