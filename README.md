@@ -21,6 +21,7 @@
 	To install all related tools, and use Perl and Python scripts to run.
 		
 	####Installation####
+
 		Use CentOS 7.4.1708 as OS to show how to install.
 
 		$ 7za x cano-wgMLST.7z
