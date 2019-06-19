@@ -20,7 +20,7 @@
 
 	To install all related tools, and use Perl and Python scripts to run.
 		
-	####Installation####
+	###Installation###
 
 		Use CentOS 7.4.1708 as OS to show how to install.
 
@@ -30,7 +30,7 @@
 		* set PATH
 			setenv PATH /YOUR_DIR/cano-wgMLST:/YOUR_DIR/cano-wgMLST/bin:$PATH
 
-	####Software required####
+	###Software required###
 
 		Following is a list of the softwares that you need:
 
