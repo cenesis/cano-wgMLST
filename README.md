@@ -164,8 +164,11 @@ $ 5.Loci-Extractor.pl
 ```
 
 ```
-Date: 2019/06/17
+Date: 2019/07/29
 Author:	Yen-Yi Liu (current788@gmail.com),
 	Ji-Wei Lin (jwlin@imst.nsysu.edu.tw),
 	Chih-Chieh Chen (chieh@imst.nsysu.edu.tw)
+
+This work has been published in Frontiers in Microbiology 2019.
+[YY Liu, JW Lin and CC Chen (2019) cano-wgMLST_BacCompare: A Bacterial Genome Analysis Platform for Epidemiological Investigation and Comparative Genomic Analysis. _Front. Microbiol._ 10:1687. doi: 10.3389/fmicb.2019.01687](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01687)
 ```
