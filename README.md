@@ -173,4 +173,4 @@ Author:	Yen-Yi Liu (current788@gmail.com),
 
 This work has been published in _Frontiers in Microbiology_ 2019.
 
-[YY Liu†, JW Lin† and CC Chen* (2019) cano-wgMLST_BacCompare: A Bacterial Genome Analysis Platform for Epidemiological Investigation and Comparative Genomic Analysis. _Front. Microbiol._ 10:1687. doi: 10.3389/fmicb.2019.01687](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01687)
+[YY Liu†, JW Lin† and CC Chen* (2019) cano-wgMLST_BacCompare: A Bacterial Genome Analysis Platform for Epidemiological Investigation and Comparative Genomic Analysis. _Front. Microbiol._ *10*:1687. doi: 10.3389/fmicb.2019.01687](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01687)
